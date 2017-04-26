@@ -1,0 +1,11 @@
+{
+  "name": "scrapers",
+  "version": "1.0.0",
+  "description": "cheerio scrapers",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {}
+}
