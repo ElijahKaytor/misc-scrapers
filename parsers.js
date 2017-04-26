@@ -28,7 +28,7 @@ parsers.aurora = function($, data) {
 
 
 
-/** YXY Arrivals/Departures parser - http://www.gov.yk.ca/yxy/{arrivals,departures}.htm
+/** YXY Arrivals/Departures parser - http://www.hpw.gov.yk.ca/yxy/{arrivals,departures}.htm
  *  @param {jQuery}     $       jQuery instance loaded with the HTML to parse
  *  @param {Object}     data    Configuration data
  */
